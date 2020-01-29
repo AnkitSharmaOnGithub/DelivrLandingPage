@@ -68,6 +68,7 @@ body{
     border-radius: 5px;
     box-shadow: var(--box-shadow);
     font-size: 12px;
+    cursor: pointer;
 }
 
 .navbar__toggle
@@ -240,6 +241,7 @@ body{
     max-height: 50px;
     text-align: center;
     margin-left: auto;
+    cursor: pointer;
 }
 
 .restaurants__body{
