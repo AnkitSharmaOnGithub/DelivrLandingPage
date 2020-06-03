@@ -372,6 +372,10 @@ body{
         margin-top: 2rem;
     }
 
+    .about__text{
+        width: 100%;
+    }
+
     .about__cta{
         width: 100%;
         text-align: center;
